@@ -25,7 +25,6 @@ import ResultView from "./ResultView";
 
 
 const connector = new AppSearchAPIConnector({
-  // searchKey: "search-4z5r8yiuvd5fuyu14t3kkwka",
   engineName: "steinsaltz-archive-search",
   endpointBase: "https://steinsaltz-archive-search.ent.eastus.azure.elastic-cloud.com"
 });
