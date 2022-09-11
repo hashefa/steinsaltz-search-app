@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/steinsaltz-search-app/static/css/main.c0d9a361.css",
+    "main.js": "/steinsaltz-search-app/static/js/main.3f595b6e.js",
+    "static/js/787.3e8a5680.chunk.js": "/steinsaltz-search-app/static/js/787.3e8a5680.chunk.js",
+    "index.html": "/steinsaltz-search-app/index.html",
+    "main.c0d9a361.css.map": "/steinsaltz-search-app/static/css/main.c0d9a361.css.map",
+    "main.3f595b6e.js.map": "/steinsaltz-search-app/static/js/main.3f595b6e.js.map",
+    "787.3e8a5680.chunk.js.map": "/steinsaltz-search-app/static/js/787.3e8a5680.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d9a361.css",
+    "static/js/main.3f595b6e.js"
+  ]
+}
