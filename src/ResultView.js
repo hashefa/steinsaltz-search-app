@@ -55,7 +55,7 @@ const ResultView = (props) => {
                 
             >
             {<InnerHTML     
-                html={result.uniqueFileName.raw}
+                html={result.uniqueFileName.snippet}
                 style={{
                     paddingLeft: "24px",
                   

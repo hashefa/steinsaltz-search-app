@@ -37,7 +37,7 @@ const config = {
   searchQuery: {
     result_fields: {
       uniqueFileName: { snippet: {
-        size: 30,
+        size: 500,
         fallback: true
       }
     },
